@@ -4,7 +4,7 @@ In an effort to make use of my small [SBC collection](https://en.wikipedia.org/w
 
 ## Initial plans
 
-My first development initiative is to produce a POC which makes use of [pi-gen](https://github.com/RPi-Distro/pi-gen) to configure and automate the building of a [docker based OctoPrint](https://hub.docker.com/r/octoprint/octoprint) server image, preconfigured to run with as little interaction as possible after inserting the SD Card.
+My first development initiative is to produce a POC which makes use of [pi-gen](https://github.com/RPi-Distro/pi-gen) to configure and automate the building of a [docker based OctoPrint](https://hub.docker.com/r/octoprint/octoprint) server image with the [customizations recomended for Prusa printers](https://help.prusa3d.com/article/octoprint-configuration-and-install_2182), preconfigured to run with as little interaction as possible after inserting the SD Card.
 
 ## Future Goals
 
